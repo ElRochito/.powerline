@@ -1,3 +1,6 @@
 [submodule "/Users/julio/.powerline/plugins/powerline_titanium"]
 	path = /Users/julio/.powerline/plugins/powerline_titanium
 	url = git@github.com:julio6114/powerline_titanium.git
+[submodule "/Users/julio/.powerline/plugins/powerline_cakephp"]
+	path = /Users/julio/.powerline/plugins/powerline_cakephp
+	url = git@github.com:julio6114/powerline_cakephp.git
