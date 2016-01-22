@@ -4,3 +4,6 @@
 [submodule "/Users/julio/.powerline/plugins/powerline_cakephp"]
 	path = /Users/julio/.powerline/plugins/powerline_cakephp
 	url = git@github.com:julio6114/powerline_cakephp.git
+[submodule "plugins/powerline_cordova"]
+	path = plugins/powerline_cordova
+	url = git@github.com:julio6114/powerline_cordova.git
